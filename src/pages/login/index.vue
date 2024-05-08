@@ -54,7 +54,6 @@ async function doLogin() {
     console.log("login error");
   }
   toast.close(); 
-  
 }
 </script>
 
